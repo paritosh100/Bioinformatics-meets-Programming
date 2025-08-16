@@ -3,7 +3,9 @@
 This repository contains my completed assignments, notes, and implementations from the **Bioinformatics Meets Programming** course by the University of California, San Diego (UCSD).  
 
 The course blends **biology** and **computer science**, introducing algorithms for DNA analysis, motif finding, and genome assembly.  
+
 I’ve implemented these in **Python** with clean, modular code and comments.
+
 ---
 
 ## 📑 Table of Contents
